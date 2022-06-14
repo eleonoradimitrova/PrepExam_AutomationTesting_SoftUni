@@ -26,6 +26,7 @@ namespace DataDrivenTestingCalculator
          driver.Quit();
         }
         [TestCase("5","6","+", "Result: 11") ]
+        [TestCase("50", "6", "+", "Result: 56")]
         [TestCase("15", "6", "-", "Result: 9")]
         [TestCase("5", "6", "*", "Result: 30")]
         [TestCase("15", "3", "/", "Result: 5")]

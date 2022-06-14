@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDriverTestsDemo", "WebDr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NunitWebDriverTests", "NunitWebDriverTestsWikipedia\NunitWebDriverTests.csproj", "{A4D1E086-4E01-4F9E-91BA-2C1E7DC0A5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDrivenTestingCalculator", "DataDrivenTestingCalculator\DataDrivenTestingCalculator.csproj", "{597415D1-B190-46F9-BBB9-EFD7E926112B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataDrivenTestingCalculator", "DataDrivenTestingCalculator\DataDrivenTestingCalculator.csproj", "{597415D1-B190-46F9-BBB9-EFD7E926112B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
